@@ -39,7 +39,7 @@ Install and setup git on your system, [git](https://git-scm.com/download/win) to
 
 ```bash
 
-# git clone https://github.com/Venkatesan-M/VenkaTesanPortfolio.git
+# git clone https://github.com/Harishram18/Portfolio.git
 
 ```
 
